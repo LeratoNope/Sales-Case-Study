@@ -137,5 +137,7 @@ FROM promo_avg p
 JOIN baseline_avg b USING (promo_period_label)
 ORDER BY promo_start;
 
-SELECT * FROM sales.sales_case.sales_clean
-LIMIT 10;
+SELECT * FROM sales.sales_case.sales_clean;
+
+SELECT * FROM sales.sales_case.sales_metrics
+ORDER BY sale_date;
