@@ -158,7 +158,7 @@ Using price elasticity of demand to understand:
 
 To demonstrate the ability to communicate insights through different business intelligence platforms, the analysis was developed across multiple visualization platforms.
 
-### 📗 Microsoft Excel *(in progress)*
+### 📗 Microsoft Excel 
 
 Excel is being used for detailed exploratory analysis and pricing dashboard development.
 
